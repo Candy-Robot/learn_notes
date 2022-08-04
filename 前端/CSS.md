@@ -16,7 +16,7 @@ CSS 可以通过以下方式添加到HTML中:
 
 ## CSS语法
 
-CSS 规则由两个主要的部分构成：选择器，以及一条或多条声明:![632877C9-2462-41D6-BD0E-F7317E4C42AC](/Users/candy/Documents/资源/基础知识/learn_notes/前端/CSS.assets/632877C9-2462-41D6-BD0E-F7317E4C42AC.jpg)
+CSS 规则由两个主要的部分构成：选择器，以及一条或多条声明:![632877C9-2462-41D6-BD0E-F7317E4C42AC](CSS.assets/632877C9-2462-41D6-BD0E-F7317E4C42AC.jpg)
 
 选择器通常是您需要改变样式的 HTML 元素。
 

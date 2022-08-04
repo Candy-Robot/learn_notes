@@ -47,7 +47,7 @@ service ssh start
 passwd
 ~~~
 
-![image-20220624203643348](/Users/candy/Documents/资源/基础知识/learn_notes/docker/远程登录docker.assets/image-20220624203643348.png)
+![image-20220624203643348](远程登录docker.assets/image-20220624203643348.png)
 
 7、关闭服务器上的防火墙
 
